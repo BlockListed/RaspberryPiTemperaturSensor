@@ -1,0 +1,5 @@
+python-decouple
+mariadb
+RPi.GPIO
+adafruit-blinka
+adafruit-circuitpython-dht

@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH=/usr/bin
+MAILTO=""
+*/4 * * * * /usr/bin/python3 /usr/src/raspberrytemperature/main.py
